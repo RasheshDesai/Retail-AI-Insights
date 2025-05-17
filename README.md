@@ -67,11 +67,19 @@ python app.py
 
 ## 📊 Example Visuals
 
-- Top 10 Products by Sales in a Selected City
+- Top Products by Sales in a Selected City
 
-- Map Visualization of Product Sales by Postal Code
+![Example Output](images/TopProductsSales.png) 
+
+- Geographical Map Visualization of Retailers and Postal Code performance for selling the selected product (strong vs weak)
+
+![Example Output](images/MapAndPostal.png)
+
 - Category-wise Summary Stats
-- Filtered Data Table View
+
+![Example Output](images/TableStat.png)
+
+
 
 ## 📦 Requirements
 
