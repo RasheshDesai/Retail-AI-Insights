@@ -3,6 +3,8 @@
 
 This is a **Sales Analytics Dashboard** built using **Plotly Dash** to visualize product sales across different cities in Canada. It enables users to explore data interactively via dropdowns, graphs, and tables.
 
+The Dashboard is an interactive web application designed to visualize and explore retail sales data across different Canadian cities. Built using Dash, Plotly, and Bootstrap, this dashboard enables users to filter data by city, product, category, and month, providing dynamic insights through graphs, maps, and tables. The app displays key performance indicators such as total sales, product-wise distribution, and top-performing retailers, allowing businesses and analysts to make data-driven decisions. With a modern dark-themed UI and seamless interactivity, this tool brings together the power of data analytics and intuitive design to uncover sales trends, regional demand, and product performance in real-time. It serves as a valuable asset for retail businesses aiming to understand customer behavior and optimize inventory, marketing, and operational strategies.
+
 ![Example Output](images/App.png) 
 
 ## 🚀 Features
@@ -67,7 +69,7 @@ python app.py
 
 ## 📊 Example Visuals
 
-- Top Products by Sales in a Selected City
+- Top Product Sales in a Selected City, Category and Fiscal Month
 
 ![Example Output](images/TopProductsSales.png) 
 
