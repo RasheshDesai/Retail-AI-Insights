@@ -3,6 +3,8 @@
 
 This is a **Sales Analytics Dashboard** built using **Plotly Dash** to visualize product sales across different cities in Canada. It enables users to explore data interactively via dropdowns, graphs, and tables.
 
+![Example Output](images/App.png) 
+
 ## 🚀 Features
 
 - Dark themed UI using `Dash Bootstrap Components (DARKLY theme)`
@@ -49,7 +51,6 @@ project/
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/sales-dashboard.git
-cd sales-dashboard
 ```
 
 2. Install dependencies:
@@ -67,6 +68,7 @@ python app.py
 ## 📊 Example Visuals
 
 - Top 10 Products by Sales in a Selected City
+
 - Map Visualization of Product Sales by Postal Code
 - Category-wise Summary Stats
 - Filtered Data Table View
